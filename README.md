@@ -80,3 +80,7 @@ https://lnkd.in/g5vxGZih
 
 ## Golang
 - [Awesome Go](https://github.com/avelino/awesome-go?tab=readme-ov-file#testing)
+
+### Golang Concurrency
+- [G Talk on concurrency](https://go.dev/talks/2012/concurrency.slide#57) [Video](https://www.youtube.com/watch?v=f6kdp27TYZs)
+- [Advanced go Concurrency](https://go.dev/blog/io2013-talk-concurrency)
